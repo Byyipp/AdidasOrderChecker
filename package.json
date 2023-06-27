@@ -1,0 +1,9 @@
+{
+  "name": "adidastracker",
+  "version": "1.0.0",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "puppeteer": "^20.5.0"
+  }
+}
